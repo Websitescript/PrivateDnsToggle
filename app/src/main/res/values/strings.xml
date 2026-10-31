@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Private DNS</string>
+    <string name="tile_label">Private DNS</string>
+    <string name="widget_description">Private DNS status and shortcut</string>
+</resources>
